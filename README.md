@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on python projects<br>I'm currently learning dsa and web dev
+<br>I'm currently learning dsa and web dev
 
 
 ## 🌐 Socials:
